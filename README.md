@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi 👋  I'm Utsav Kumar
+
+
+ - 🌱 I’m currently learning Next.js
+ - ✨ All of my projects are available at
+      https://github.com/utsav2501
+
+
 
 <!--
 **utsav2501/utsav2501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
